@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         } else {
             fakeButton.backgroundColor = .red
 
-        
+            self.fakeButton.backgroundColor = .green
     }
 
 }
